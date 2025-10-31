@@ -1,10 +1,16 @@
-# Quick Response Emergency Service (QRES)
-This project detects accidents in real-time using sound-based models, sends alerts to hospitals, and maps nearby emergency services.
+# QRES - Quick Response Emergency Service (AI-based Accident Detection)
+
+## Overview
+QRES is an AI-powered emergency response system that detects accident sounds in real-time using machine learning and sends automated alerts to nearby hospitals.
 
 ## Features
-- Real-time sound detection
-- Google Maps API integration
-- Automated alert system
+- Real-time accident sound detection (MFCC + Neural Network)
+- Google Maps API to locate nearest hospitals
+- MongoDB database for hospital records
+- Automated SMS alert system
 
-## Technologies Used
-- Python, MongoDB, Android Development
+## Tech Stack
+- Python
+- Librosa, NumPy, Scikit-learn / TensorFlow
+- Google Maps API / TomTom API
+- MongoDB + Node.js Integration

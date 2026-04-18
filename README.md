@@ -14,3 +14,8 @@ QRES is an AI-powered emergency response system that detects accident sounds in 
 - Librosa, NumPy, Scikit-learn / TensorFlow
 - Google Maps API / TomTom API
 - MongoDB + Node.js Integration
+
+## Project Link🔗 
+[Link](https://drive.google.com/drive/folders/11s5AA-OskrkMLTACYimRPlqSOJQzR1hw)
+
+
